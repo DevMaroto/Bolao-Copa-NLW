@@ -60,7 +60,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e GitHub
 
 ## Como executar
-Acessando a pasta de todos os projetos é preciso baixar os pacotes com o gerenciador do seu gosto.
+Acessando a pasta de todos os projetos é preciso baixar os pacotes com o gerenciador do seu gosto. <br>
+Leia os README.md de cada pasta para executar.
+
 - [Server Backend](https://github.com/DevMaroto/bolao-Copa-NLW/tree/Main/server)
 - [Mobile](https://github.com/DevMaroto/bolao-Copa-NLW/tree/Main/mobile)
 - [Web](https://github.com/DevMaroto/bolao-Copa-NLW/tree/Main/web)

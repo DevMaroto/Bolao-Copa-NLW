@@ -1,12 +1,13 @@
-# bolao-Copa-NLW
-<h1 align="center"> NLW #10Copa </h1>
+
+
+<h1 align="center">  Bolão Copa NLW 2022 </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
 <p align="center">
-  Link do site:  https://devmaroto.github.io/Calendario-Copa-NLW/
+  
 </p>  
 
 <p align="center">
@@ -57,6 +58,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQLite 
 - Next.js
 - Git e GitHub
+
+## Como executar
+Acessando a pasta de todos os projetos é preciso baixar os pacotes com o gerenciador do seu gosto.
+
 
 ## 💻 Projeto
 
